@@ -16,5 +16,3 @@ Hereby thank esirplayground for his amazing job: https://github.com/esirplaygrou
 - When the build is complete, click the `Artifacts` button in the upper right corner of the Actions page to download the binaries.
 
   
-
-
